@@ -1,4 +1,4 @@
-# Angular Boot Camp example: observable-composing-and-chaining
+# Angular Training example: observable-composing-and-chaining
 
 ## Run and edit this example code
 
